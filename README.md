@@ -1,8 +1,8 @@
-Name:
+Name: Jason Huang
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes, program compiled & ran successfully with no errors or warnings.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: junit test was successful, process finished with an exit code 0
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
